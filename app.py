@@ -4,7 +4,6 @@ import numpy as np
 import pickle
 import matplotlib.pyplot as plt
 import seaborn as sns
-from phik import phik_matrix
 
 @st.cache_resource
 def load_model():
