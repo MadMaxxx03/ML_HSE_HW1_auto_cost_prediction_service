@@ -1,5 +1,7 @@
 # Прогнозирование цен на автомобили (в рамках дз 1 по ML HSE)
 
+## Ссылка на приложение: https://mlhsehw1autocostpredictionservice-ez4kcmltrogk4w4dz7uuyh.streamlit.app/
+
 ## Структура проекта
 - `app.py` - Streamlit приложение
 - `best_ridge_model.pkl` - обученная модель Ridge
